@@ -11,7 +11,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.superdocu.com
-  theme: superdocu
+  # theme: superdocu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Superdocu/status-page/master/superdocu-logo.png
   themeUrl: https://raw.githubusercontent.com/Superdocu/status-page/master/assets/superdocu.css
