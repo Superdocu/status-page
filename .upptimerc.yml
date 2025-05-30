@@ -1,5 +1,5 @@
 # Change these first
-owner: SuperDocu # Your GitHub organization or username, where this repository lives
+owner: Superdocu # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
 
 sites:
@@ -11,6 +11,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.superdocu.com
+  theme: superdocu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Superdocu/status-page/master/superdocu-logo.png
   themeUrl: https://raw.githubusercontent.com/Superdocu/status-page/master/assets/superdocu.css
