@@ -1,39 +1,25 @@
 :root {
-    /* Base text & backgrounds */
-    --body-background-color: #001845;       /* deep navy backdrop */
-    --body-text-color: #F0FCFF;             /* very light cyan for high contrast */
-  
-    /* Cards & nav */
-    --card-background-color: #00234A;       /* darkened navy */
-    --nav-background-color: #00234A;        /* match card bg for consistency */
-    --nav-border-bottom-color: #0055FF;     /* primary blue underline */
-    --nav-current-border-bottom-color: #1ABC9C; /* keep accent green if you like, or swap to lighter blue */
-  
-    /* Borders */
-    --card-border-color: #0055FF;            /* primary */
-    --down-border-left-color: #EB3B5A;       /* keep red for negative */
-    --degraded-border-left-color: #F7B731;   /* keep amber for warning */
-    --up-border-left-color: #20BF6B;         /* keep green for positive */
-  
-    /* Status chips/tags */
-    --tag-color: #00234A;                    /* card bg tone */
+    --body-background-color: #001845;
+    --body-text-color: #F0FCFF;
+    --card-background-color: #00234A;
+    --nav-background-color: #00234A;
+    --nav-border-bottom-color: #0055FF;
+    --nav-current-border-bottom-color: #1ABC9C;
+    --card-border-color: #0055FF;
+    --down-border-left-color: #EB3B5A;
+    --degraded-border-left-color: #F7B731;
+    --up-border-left-color: #20BF6B;
+    --tag-color: #00234A;
     --tag-up-background-color: #20BF6B;
     --tag-down-background-color: #EB3B5A;
     --tag-degraded-background-color: #F7B731;
-  
-    /* Change highlights */
     --change-background-color: #F7B731;
-  
-    /* Buttons */
-    --error-button-border-color: #0055FF;    /* primary border */
-    --error-button-background-color: #0055FF;/* primary bg */
-    --error-button-color: #FFFFFF;           /* white text */
+    --error-button-border-color: #0055FF;
+    --error-button-background-color: #0055FF;
+    --error-button-color: #FFFFFF;
     --submit-button-border-color: #0055FF;
     --submit-button-background-color: #0055FF;
     --submit-button-color: #FFFFFF;
-  
-    /* Graph styling */
     --graph-opacity: 1;
     --graph-filter: none;
-  }
-  
+}
