@@ -4,18 +4,20 @@
     "url": "https://www.superdocu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.superdocu.com.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2170,
-    "timeDay": 2090,
-    "timeWeek": 2012,
-    "timeMonth": 2190,
-    "timeYear": 2170,
-    "dailyMinutesDown": {}
+    "time": 2158,
+    "timeDay": 1792,
+    "timeWeek": 1947,
+    "timeMonth": 2168,
+    "timeYear": 2158,
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   },
   {
     "name": "Superdocu App",
