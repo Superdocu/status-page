@@ -4,7 +4,7 @@
     "url": "https://www.superdocu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.superdocu.com.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
@@ -16,6 +16,7 @@
     "timeMonth": 1913,
     "timeYear": 2272,
     "dailyMinutesDown": {
+      "2026-01-05": 0,
       "2026-01-03": 37,
       "2025-12-09": 85,
       "2025-12-03": 518,
