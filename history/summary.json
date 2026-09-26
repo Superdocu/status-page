@@ -4,16 +4,16 @@
     "url": "https://www.superdocu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.superdocu.com.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
-    "time": 1884,
-    "timeDay": 26011,
-    "timeWeek": 7766,
-    "timeMonth": 3129,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "82.80%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.44%",
+    "time": 1883,
+    "timeDay": 17878,
+    "timeWeek": 7082,
+    "timeMonth": 3083,
     "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-09-30": 39,
@@ -42,7 +42,8 @@
       "2026-04-12": 42,
       "2026-04-14": 51,
       "2026-04-30": 95,
-      "2026-06-23": 201
+      "2026-06-23": 201,
+      "2026-09-26": 248
     }
   },
   {
